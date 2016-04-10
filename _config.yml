@@ -1,0 +1,14 @@
+name: Jesper Lugner - Blog
+markdown: kramdown
+highligther: pygments
+timezone: Europe/Stockholm
+exclude: ['Gemfile', 'Gemfile.lock', '*.sublime-*', 'lib','vendor', 'Rakefile', 's3_website.yml']
+relative_permalinks: false
+url: https://blog.jesperlugner.com
+author: Jesper Lugner
+copyright: Jesper Lugner
+permalink: /:year/:month/:day/:title.html
+gems:
+    - jekyll-feed
+sass:
+  style: compressed
