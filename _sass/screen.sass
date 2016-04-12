@@ -31,7 +31,6 @@ em
 
 // --- Layout ---
 article
-  border-bottom: 1px solid $border_color_light
   margin-bottom: $section_spacing_vertical / 2
   margin-top: $section_spacing_vertical / 2
   margin: 0 auto
@@ -50,13 +49,11 @@ article
     float: left
     margin-left: 12px
 
-
 .nav-link
   font-family: $header_font
-  font-weight: 50
   text-transform: uppercase
   font-size: 1.2rem
-  font-weight: 100
+  font-weight: 200
   color: $low_contrast_text_color
 
 .post
@@ -89,7 +86,7 @@ article
   color: $text_color
 
 .post-preview-body
-  color: $border_color
+  color: $text-color
 
 footer
   margin-top: 50px
@@ -110,9 +107,12 @@ ul.posts
 // Typography
 // ----------------
 p
-  margin: 10px 0
+  margin: 14px 0
   font-size: 1rem
-  line-height: 1.3em
+  line-height: 1.4em
+
+time
+  color: $border_color
 
 strong
   font-weight: bold
@@ -149,6 +149,9 @@ h3, h4
 
 h5, h6
   font-weight: 100
+
+.mid-size-text
+  font-size: 0.9rem
 
 .text-center
   text-align: center
