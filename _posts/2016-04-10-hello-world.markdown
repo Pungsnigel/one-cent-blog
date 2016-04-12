@@ -2,6 +2,7 @@
 layout: post
 title:  "Hello world!"
 date:   2016-04-10 13:51:29 +0000
+author: Jesper
 ---
 Hi! My name is Jesper Lugner, and welcome to my site. Here I write about my various fields of interest; programming, finance and ice cream. The occasional movie review might show up as well. I switch between Swedish and English depending on the topic at hand. 
 
