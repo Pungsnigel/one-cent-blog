@@ -7,7 +7,7 @@ relative_permalinks: false
 url: https://jesperlugner.com
 author: Jesper Lugner
 copyright: Jesper Lugner
-permalink: /:year/:month/:day/:title.html
+permalink: /:year/:month/:day/:title
 gems:
     - jekyll-feed
 sass:
