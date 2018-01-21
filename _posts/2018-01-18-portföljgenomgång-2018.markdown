@@ -5,7 +5,7 @@ date:   2018-01-18 14:10:00 +0000
 author: Jesper
 categories: börs, aktier, investering
 ---
-Det här är det första av flera inlägg om min aktieportfölj. Jag kommer att skriva om existerande portfölj, planerade affärer, genomförda analyser och allmänna tankar kring börs och investerande. Den här typen av inlägg gör jag framförallt av två anledningar; jag vill bli mer strukturerad kring mina affärer och jag behöver jobba igenom mina tankar och analyser mer konkret. Det här inlägget kommer att gå igenom min portfölj så som den ser ut idag, med en kort beskrivning av varje innehav samt vad mitt case i korthet går ut på.
+Det här är det första av flera inlägg om min aktieportfölj. Jag kommer att skriva om existerande portfölj, planerade affärer, genomförda analyser och allmänna tankar kring börs och investerande.  I det här inlägget kommer jag att gå igenom min portfölj så som den ser ut idag, med en kort beskrivning av varje innehav samt vad mitt case i korthet går ut på.
 
 Min portfölj går att följa på Shareville [här][shareville] och sorterat på storlek ser den ut såhär:
 
@@ -79,7 +79,7 @@ I all sin enkelhet tycker jag att samtliga storbanker är en aning undervärdera
 1. Handelsbanken är rimligt värderad och kommer att fortsätta ge en rimlig avkastning till relativt lågt pris framåt.
 2. Det finns en möjlig positiv trigger i en kommande extrautdelning.
 3. Kvalité inom bank syns tydligast när det går illa - Handelsbanken har historiskt klarat kriser bättre än konkurrenter.
-4. Även framåt kommer folk uppskatta att träffa en fysisk person vid bankärenden - Handelsbanken har en tydlig nisch för framtiden.  
+4. Även framåt kommer folk uppskatta att träffa en fysisk person vid bankärenden - Handelsbanken har en tydlig nisch för framtiden.
 
 #### Marknadens syn
 Handelsbanken handlas till P/E ~14 och P/B 1.6. Inget fynd, inte överdrivet dyrt. Jag är ok med att köpa fram till P/E 15, och kan hålla en bit över det.
@@ -87,9 +87,10 @@ Handelsbanken handlas till P/E ~14 och P/B 1.6. Inget fynd, inte överdrivet dyr
 #### Risker
 * Sveriges storbanker är enorma och i mina ögon svåra att analysera bra
 * Banker är alltid känsliga för konjunktur
-* Jag kan ha fel i min tes om kontor, i vilket fall Handelsbanken kan ha en stor förändring framför sig (större än konkurrenter dvs.) 
+* Jag kan ha fel i min tes om kontor, i vilket fall Handelsbanken kan ha en stor förändring framför sig (större än konkurrenter dvs.)
 
 ### Volati
+Från hemsidan: "Volati är en industrigrupp bestående av 13 affärsenheter organiserade i de fyra affärsområdena Handel, Konsument, Industri och Akademibokhandeln."
 #### Mitt Case
 Volati har en kompetent ledning och en otrolig historik. Aktien har gått uselt under senaste halvåret, mycket på grund av en dålig sommarperiod för bolaget. Utan att gå in för mycket på detalj så har detta berott på den torra sommaren, och Volati äger ett bolag som bland annat hyr ut avfuktningsmaskiner. Jag ser det som en gång ingen gång, och satsar på att nästa år blir bättre. Jag inbillar mig också att marknaden kanske underskattar nytillskottet Akademibokhandelns styrka under Q4. Om Q2/Q3 inte är bra kommer jag att kliva av. Om Volati börjar tumma på värderingen i sina framtida köp kliver jag ocskå av. Om inte sitter jag gärna kvar här och ser på när ett rejält konglomerat byggs upp. Jag tror att det fortsatt finns många intressant förvärv att göra, inte minst när familjebolag ska genomgå generationsbyten.
 
@@ -115,18 +116,36 @@ Nämt ovan, men:
 * Oklar framtid kring XL-Bygg, som är stor kund och stor ägare.
 * Inte bevisat att Genesis kan sälja sina tjänster till nya kunder
 
-### BillerudKorsnäs 
+### BillerudKorsnäs
+BillerudKorsnäs är ett Svenskt skogsindustriföretag. Bolaget bildades för några år sedan då Billerud och Korsnäs slogs ihop. Går man in på deras hemsida och kikar runt lite ser man snabbt att de specialiserar sig på förpackningar. De rider således på flera intressanta trender, där ökad e-handel och ökat hållbarhetsfokus är tydligast. BillerudKorsnäs verkar i en marknad där kunderna efterfrågar mer än vad producenterna kan leverera.
 #### Mitt case
+Bloggaren Gottodix [målade upp ett intressant case][gottodix-billerud-case] för Billerud häromveckan. I sin enkelhet går caset ut på att Billerud är ett högkvalitativt bolag som haft många engångskostnader under 2017 och börjar av 2018. Caset är enkelt. Lyckas Billerud få slut på problemen så borde de kunna få en ganska rejäl uppgång bara genom att fortsätta rida på nuvarande trender. När Billerud sedan fick vinstvarna pga redan kända faktorer och ändå backade ~10% kunde jag inte stå emot. Gottodix [kommenterade även denna händelse][gottodix-billerud-varning]. Billerud nämns ofta som en het uppköpskandidat, så även där finns en potentiell trigger (även om jag själv brukar undvika att räkna med uppköp, det är helt enkelt för svårt att avgöra potentialen).
+
+Även om mitt case inte slår in under 2018 har jag inga problem att äga bolaget under längre tid. Jag är aldrig nöjd med mina portföljer om jag inte lyckas klämma in lite Svensk skog, och jag gör det gärna genom att äga ett bolag som rider på gynnsamma trender och har en god historik.
 #### Marknadens syn
+Bolaget är inte lågt värderat på något sätt. P/S har stadigt klättrat under senaste åren, och har sen 2015 legat på ~1.3. P/E är 18, och EV/EBIT 15,9. Jag räknar personligen inte med någon större multipelökning ens om mitt bull case går in, hela mitt case går istället ut på ökad vinst per aktie.
 #### Risker
+* Redan hög värdering - klar fallhöjd vid surare börs
+* Engångskostnaderna kanske visar sig vara en trend, kvalitétsbolag påväg att tappa sin gnista?
 
 ### Doro
+Från wiki: "Doro är ett börsnoterat svenskt företag som fokuserar på utveckling, marknadsföring och försäljning av telekomprodukter och mjukvara anpassade till seniora användare."
 #### Mitt case
+Doros verksamhet går lite knackigt, och telefonförsäljningen har inte alls samma momentum som för några år sedan. Marknaden verkar fortsatt lägga allt sitt fokus här. Under tiden växer Doros satsning på trygghetslarm - Doro Care - fram med rejäl fart. Doro Care säljs nu in till kommun efter kommun, och det på en marknad där det är svårt att ta sig in alls. Jag tror att det finns en god chans att de värden som byggs i Care kommer att börja visa sig rejält under 2018-2019. Marknaden är i sin natur oerhört svår att ta sig in på, och när Doro väl har byggt upp sin position tror jag att det är för sent för eventuella konkurrenter att göra något åt det. Vi har alltså en god chans att få trevligt återkommande intäkter på en marknad med naturliga vallgravar.
+
 #### Marknadens syn
+Förtroendet för Doro verkar minska mer och mer. Bolaget handlas idag till P/E 17 och EV/EBIT 14.
+
 #### Risker
+* Klar fallhöjd om jag får fel ang. Doro Care.
+* Många parallella satsningar. Ganska spretigt.
 
 ### Slutsats
+Beskrivningen av varje bolag ovan är medvetet kort. Jag har berättat nog för att beskriva tanken med innehav i en förenklad form, men inte mer än så. Jag gillar att ha några tydliga case för de flesta av mina innehav, det blir då så mycket lättare att avgöra när man ska köpa respektive sälja. Inget av bolagen ovan har rapporterat för perioden, och jag ser särskilt fram emot att läsa rapporterna från GenesisIT och Handelsbanken. Handelsbanken kan komma att lämna besked om eventuell extrautdelning, och Genesis släpper så lite information i övrigt att varje inblick i verksamheten är guld värd.
+
 Jesper
 
 [shareville]: https://www.shareville.se/medlemmar/piggelinmannen/portfolios/118034/yield
 [lunda-handels]: http://lundaluppen.blogspot.se/2017/10/handelsbanken-overkapitaliserad.html
+[gottodix-billerud]: http://gottodix.blogspot.se/2018/01/analys-billerudkorsnas-vagar-man-tro-pa.html
+[gottodix-billerud-varning]: http://gottodix.blogspot.se/2018/01/helt-kort-om-billerudkorsnas.html
