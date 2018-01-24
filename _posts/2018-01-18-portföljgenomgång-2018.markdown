@@ -157,5 +157,5 @@ Jesper
 
 [shareville]: https://www.shareville.se/medlemmar/piggelinmannen/portfolios/118034/yield
 [lunda-handels]: http://lundaluppen.blogspot.se/2017/10/handelsbanken-overkapitaliserad.html
-[gottodix-billerud]: http://gottodix.blogspot.se/2018/01/analys-billerudkorsnas-vagar-man-tro-pa.html
+[gottodix-billerud-case]: http://gottodix.blogspot.se/2018/01/analys-billerudkorsnas-vagar-man-tro-pa.html
 [gottodix-billerud-varning]: http://gottodix.blogspot.se/2018/01/helt-kort-om-billerudkorsnas.html
