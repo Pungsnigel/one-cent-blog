@@ -23,7 +23,7 @@ Min portfölj går att följa på Shareville [här][shareville] och sorterat på
 * Doro: 6.3%
 
 ## Innehav
-Här kommer jag att lista varje innehav i samma ordning som tidigare. För varje innehav kommer listar jag:
+Här kommer jag att lista varje innehav i samma ordning som tidigare. För varje innehav listar jag:
 
 1. En *väldigt* kort beskrivning av bolagets verksamhet
 2. Mitt case
@@ -38,7 +38,7 @@ Apple är ett av världens bästa företag, och tillverka produkter som i mina �
 
 Apple har en rejäl vallgrav som främst består i varumärke, produktkvalité, enheter som jobbar bra ihop (köper du en produkt av dem köper du gärna en till - och byter ogärna därifrån) samt diverse mjukvarutjänster som bara fungerar på deras enheter. Vallgraven ger Apple möjlighet att ta rejält betalt för sina produkter. De har medvetet valt att verka inom få produktkategorier, och erbjuda få modeller inom varje kategori. Detta i kombination med de höga priserna (och volymerna) ger Apple en helt brutal marginal som vida överstiger marknaden i övrigt. Detta är tydligast inom telefonbranschen, där Apple säljer klart under hälften av alla smartphones i världen, men tar hem nästan all vinst.
 
-  Apple till ett P/E på ~19, och då har de som bekant en *rejäl* kassa - EV/EBIT ligger på ~12. Mitt case är ganska enkelt; Apple kommer att fortsätta tillverka produkter som folk vill ha, de kommer fortsätta växa i måttligt tempo, återköpa rejält med aktier, och totalt öka vinsten per aktie stabilt många år framåt. Apple är ingen blivande kursdubblare, men jag skulle bli förvånad om den inte presterat bättre än börsen på några års sikt. Min plan är att hålla hårt i mina aktier, och köpa fler vid varje svacka som jag inte bedömer bero på långsiktiga problem inom bolaget.
+Apple till ett P/E på ~19, och då har de som bekant en *rejäl* kassa - EV/EBIT ligger på ~12. Mitt case är ganska enkelt; Apple kommer att fortsätta tillverka produkter som folk vill ha, de kommer fortsätta växa i måttligt tempo, återköpa rejält med aktier, och totalt öka vinsten per aktie stabilt många år framåt. Apple är ingen blivande kursdubblare, men jag skulle bli förvånad om den inte presterat bättre än börsen på några års sikt. Min plan är att hålla hårt i mina aktier, och köpa fler vid varje svacka som jag inte bedömer bero på långsiktiga problem inom bolaget.
 
 #### Marknadens syn
 Marknaden ser fortfarande Apple som en telefonförsäljare. På senare tid har kassan och den brutala tillväxten och lönsamheten inom Apple Services fått ökad uppmärksamhet, men långt ifrån nog. Marknaden underskattar Apples förmåga att ta fram nya produkter. Apple Watch släpptes 2015, Airpods släpptes 2017, och du ser redan bägge överallt. Det finns ingenting som tyder på att Apple tappat sin känsla.
@@ -128,7 +128,7 @@ P/E 11 och EV/EBIT 7 på ett växande bolag? Marknaden är definitivt inte impon
 BillerudKorsnäs är ett Svenskt skogsindustriföretag. Bolaget bildades 2012 när Billerud och Korsnäs slogs ihop. Går man in på deras hemsida och kikar runt lite ser man snabbt att de specialiserar sig på förpackningar. De rider således på flera intressanta trender, där ökad e-handel och ökat hållbarhetsfokus är tydligast. BillerudKorsnäs verkar i en marknad där kunderna efterfrågar mer än vad producenterna kan leverera.
 
 #### Mitt case
-Bloggaren Gottodix [målade upp ett intressant case][gottodix-billerud-case] för Billerud häromveckan. I sin enkelhet går caset ut på att Billerud är ett högkvalitativt bolag som haft många engångskostnader under 2017 och börjar av 2018. Caset är enkelt. Lyckas Billerud få slut på problemen så borde de kunna få upp lönsamheten bara genom att fortsätta rida på nuvarande trender. När Billerud sedan fick vinstvarna grundat på redan kända faktorer och ändå backade ~10% kunde jag inte stå emot. Gottodix [kommenterade även denna händelse][gottodix-billerud-varning]. Billerud nämns ofta som en het uppköpskandidat, så även där finns en potentiell trigger (även om jag själv brukar undvika att räkna med uppköp).
+Bloggaren Gottodix [målade upp ett intressant case][gottodix-billerud-case] för Billerud häromveckan. I sin enkelhet går caset ut på att Billerud är ett högkvalitativt bolag som haft många engångskostnader under 2017 och börjar av 2018. Lyckas Billerud få slut på problemen så borde de kunna få upp lönsamheten bara genom att fortsätta rida på nuvarande trender. När Billerud sedan fick vinstvarna grundat på redan kända faktorer och ändå backade ~10% kunde jag inte stå emot. Gottodix [kommenterade även denna händelse][gottodix-billerud-varning]. Billerud nämns ofta som en het uppköpskandidat, så även där finns en potentiell trigger (även om jag själv brukar undvika att räkna med uppköp).
 
 #### Marknadens syn
 Bolaget är inte lågt värderat på något sätt. P/S har stadigt klättrat under senaste åren, men har sedan 2015 legat på ~1.3. P/E är 18, och EV/EBIT 15,9. Jag räknar personligen inte med någon större multipelexpansion ens om mitt bull case går in utan istället med att värdering är konstant men vinsten per aktie högre.
